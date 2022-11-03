@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-62a36c29","path":"/launch-pad/middleware/kubernetes/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.06,"words":17},"filePathRelative":"launch-pad/middleware/kubernetes/index.md"}');export{e as data};
