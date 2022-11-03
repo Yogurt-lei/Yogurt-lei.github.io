@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as a,c as o,d as e,e as r}from"./app.5eaf0eaa.js";const c={},n=e("h1",{id:"jvm",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#jvm","aria-hidden":"true"},"#"),r(" JVM")],-1),s=[n];function d(_,i){return a(),o("div",null,s)}const m=t(c,[["render",d],["__file","index.html.vue"]]);export{m as default};
